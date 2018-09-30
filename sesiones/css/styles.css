@@ -1,0 +1,86 @@
+@charset "utf-8";
+
+body {
+	margin: 0px;
+	padding: 0px;
+	background-image: url(../images/back.jpg);
+}
+
+p {
+	font-family:Verdana, Geneva, sans-serif;
+	font-size:12px;
+	font-weight:normal;
+	color:#000;
+	text-shadow:1px 2px 2px #666;
+}
+
+a {
+	font-family:Verdana, Geneva, sans-serif;
+	font-size:12px;
+	font-weight:normal;
+	color:#006;
+	text-decoration:none;
+	text-shadow:1px 2px 2px #666;	
+}
+
+a:hover {
+	font-family:Verdana, Geneva, sans-serif;
+	font-size:12px;
+	font-weight:normal;
+	color:#C00;
+	text-decoration:none;
+	text-shadow:1px 2px 2px #666;	
+}
+
+table td {
+	font-family:Verdana, Geneva, sans-serif;
+	font-size:12px;
+	font-weight:normal;
+	color:#000;
+	text-shadow:1px 2px 2px #666;	
+}
+
+input {
+	box-shadow:1px 2px 2px #666;
+}
+
+h1 h2 h3 {
+	font-family:Verdana, Geneva, sans-serif;
+	font-weight:bold;
+	color:#300;
+	text-shadow:1px 2px 2px #666;
+}
+
+h1 { font-size:26px; }
+h2 { font-size:22px; }
+h3 { font-size:18px; }
+
+#headerFix {
+	width:auto;
+	height:90px;
+	border-bottom: 1px solid #000;
+}
+
+#bodyArticleFix {
+	margin-top:30px;
+	margin-left:50px;
+	margin-right:10px;
+	margin-bottom:30px;
+	width:600px;
+	text-align:justify;
+}
+
+#footerFix {
+	width:auto;
+	height:50px;
+	background-color:#000;
+	margin-top:20px;
+}
+
+#footerFix p {
+	font-family:Verdana, Geneva, sans-serif;
+	font-size:10px;
+	font-weight:bold;
+	text-align:center;
+	color:#FFF;
+}
