@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="2"
+   name=""
+   committed-date="2005-12-22T21:11:56.281250Z"
+   url="file:///svn-repository/php-blog/trunk"
+   last-author="Tyler3"
+   kind="dir"
+   uuid="083a3cb5-6fb8-6743-948d-7d9506a062ce"
+   revision="3"/>
+<entry
+   committed-rev="1"
+   name="footer.php"
+   text-time="2005-12-22T18:54:00.812500Z"
+   committed-date="2005-12-22T18:52:11.359375Z"
+   checksum="2ec73e9f9e604d33f8cab43ce97bb7ab"
+   last-author="Tyler3"
+   kind="file"
+   prop-time="2005-12-22T18:54:00.343750Z"/>
+<entry
+   name="edit"
+   kind="dir"/>
+<entry
+   committed-rev="6"
+   name="header-sidebar.php"
+   text-time="2005-12-23T03:42:28.671875Z"
+   committed-date="2005-12-23T03:57:37.015625Z"
+   checksum="b28561c8166c1989b2e1a15d3f6c120d"
+   last-author="Tyler3"
+   kind="file"
+   prop-time="2005-12-22T18:54:00.515625Z"
+   revision="6"/>
+<entry
+   name="blogs"
+   kind="dir"/>
+<entry
+   name="includes"
+   kind="dir"/>
+<entry
+   committed-rev="6"
+   name="index.php"
+   text-time="2005-12-23T03:52:03.593750Z"
+   committed-date="2005-12-23T03:57:37.015625Z"
+   checksum="ba962e87daa6bbeb6cbfdfa90053fde1"
+   last-author="Tyler3"
+   kind="file"
+   prop-time="2005-12-22T18:54:00.812500Z"
+   revision="6"/>
+</wc-entries>

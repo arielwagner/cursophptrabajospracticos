@@ -1,0 +1,15 @@
+Declarar Constantes en PHP
+
+Una constante se trata de una variable cuyo valor permanece inalterable durante la ejecución del programa y ni tampoco puede ser alterado durante el mismo. Su valor es fijo y no puede cambiar.
+Una Constante se declara mediante la palabra reservada llamada define. Sin embargo, para definir constantes dentro de una clase, la palabra reservada es const.
+A continuación muestro cómo se declaran estas constantes.
+
+Para define se tiene:
+
+define("NOMBRE_CONSTANTE", "VALOR);
+
+Para const se tiene:
+
+const NOMBRE_CONSTANTE = "VALOR";
+
+Los valores puede ser numéricos o alfanuméricos respectivamente.

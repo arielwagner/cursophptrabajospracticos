@@ -1,0 +1,66 @@
+body 
+{
+	background:url(../images/textback.jpg);
+}
+
+h1, h2, h3, h4, h5, h6
+{
+	font-family:Verdana, Geneva, sans-serif;
+	text-shadow: 1px 1px 1px #333;
+}
+
+a 
+{
+	text-decoration:none; 
+	font-family:Verdana, Geneva, sans-serif;
+	font-weight:bold;
+	font-size:12px;
+	color:#900;
+}
+
+a:hover
+{
+	color:#930;
+	text-shadow: 1px 2px 2px #663333;
+}
+
+.viewDivList
+{
+	position:relative;
+	width: 100px;
+	height: 300px;
+	left: 10px;
+	top: 10px;
+	padding: 10px 10px 10px 10px;
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 12px;
+	color: #000;
+	text-align: justify;
+}
+
+.viewDivBlog 
+{
+	position:relative;
+	width: 400px;
+	height: 300px;
+	left: 140px;
+	top: -100px;
+	border-left-color:#333;
+	border-left-style:outset;
+	border-left-width:1px;
+	padding: 10px 10px 10px 10px;
+	font-family:Verdana, Geneva, sans-serif;
+	font-size:12px;
+	color:#000;
+	text-align:justify;
+}
+
+.viewFBlog
+{
+	background:#999;
+	padding: 10px 10px 10px 10px;
+	font-family:Verdana, Geneva, sans-serif;
+	font-size:10px;
+	font-weight:bold;
+	color:#000;
+}
