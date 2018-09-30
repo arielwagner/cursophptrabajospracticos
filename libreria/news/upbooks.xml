@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-5"?>
+<onlinebooks>
+<books>
+	<titulo>El cuarto de las estrellas</titulo>
+	<autor>Jose Antonio Garriga Vela</autor>
+	<publicacion>2013</publicacion>
+</books>
+<books>
+	<titulo>La tierra larga</titulo>
+	<autor>Terry Pratchett</autor>
+	<publicacion>2012</publicacion>
+</books>
+<books>
+	<titulo>Tiempo sin tiempo</titulo>
+	<autor>Sherrilyn Kenyon</autor>
+	<publicacion>2011</publicacion>
+</books>
+<books>
+	<titulo>Bajo cero</titulo>
+	<autor>Karen Marie Moning</autor>
+	<publicacion>2013</publicacion>
+</books>
+<books>
+	<titulo>Terra Nova Volumen 2</titulo>
+	<autor>Editorial Autores Unidos</autor>
+	<publicacion>2012</publicacion>
+</books>
+<books>
+	<titulo>Orlando furioso</titulo>
+	<autor>Italo Calvino</autor>
+	<publicacion>2010</publicacion>
+</books>
+<books>
+	<titulo>Quedan los huesos</titulo>
+	<autor>Jesmyn Ward</autor>
+	<publicacion>2012</publicacion>
+</books>
+<books>
+	<titulo>La noche se llama Olalla</titulo>
+	<autor>Jesus Ferrero</autor>
+	<publicacion>2013</publicacion>
+</books>
+</onlinebooks>
+

@@ -1,0 +1,37 @@
+@charset "utf-8";
+
+table {
+	width:570px;
+}
+
+table th {
+	font-family:Verdana, Geneva, sans-serif;
+	font-size: 12px;
+	font-weight: bold;
+	background: #300;
+	color: #CCC;
+}
+
+table td {
+	font-family:Verdana, Geneva, sans-serif;
+	font-size: 10px;
+	font-weight: 200;
+	background: #CC9;
+	color: #600;
+}
+
+.th1 {
+	width: 80px;
+}
+
+.th2 {
+	width: 300px;
+}
+
+.th3 {
+	width: 80px;
+}
+
+.th4 {
+	width: 80px;
+}
