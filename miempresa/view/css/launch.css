@@ -1,0 +1,113 @@
+/* FONDO */
+
+body 
+{
+	background: #CCC;	
+}
+
+/* MARCOS */
+
+/* MARCO HEADER */
+
+#marcoheaderdiv
+{
+	width: auto;
+	height: 30px;
+}
+
+.title1 
+{
+	margin-left:10px;
+	margin-top:auto;
+	margin-bottom:auto;
+	font-family:Verdana, Geneva, sans-serif;
+	font-size:20px;
+	font-weight:bold;
+	color:#FFF;
+	text-shadow: 1px 2px 2px #333333;
+	text-align:left;	
+}
+
+/* MARCO NAV */
+
+#marconavdiv 
+{
+	background: #000;	
+	height: 35px;
+}
+
+/* MARCO ARTICLE */
+
+#marcoarticlediv 
+{
+	width: auto;
+	height: 460px;
+}
+
+.box 
+{
+	position:relative;
+	background:#FFF;
+	left: 100px;
+	top: 50px;
+	width: 500px;
+	height: 300px;
+	padding: 10px;
+	border: 1px solid #000;
+	border-radius: 10px;
+	margin-left: 0px;
+	margin-bottom: 200px;
+	margin-top: 10px;
+	-moz-box-shadow: 3px 3px 6px #777; 
+	-webkit-box-shadow: 3px 3px 6px #777; 
+	box-shadow: 3px 3px 6px #777; 
+	overflow: auto;
+	z-index: -1;
+}
+
+.articletitle1 
+{
+	font-family: Verdana, Geneva, sans-serif;
+	font-size:18px;
+	font-weight:bold;
+	color:#036;
+	text-shadow: 1px 2px 2px #333333;
+}
+
+.articleparrafo1 
+{
+	font-family: Verdana, Geneva, sans-serif;
+	font-size:12px;
+	font-weight:bold;
+	color:#003;
+	text-align:justify;
+}
+
+.articleparrafo2
+{
+	font-family: Verdana, Geneva, sans-serif;
+	font-size:11px;
+	font-weight:bold;
+	font-style:italic;
+	color:#600;
+	text-align:justify;
+}
+
+/* MARCO FOOTER */
+
+#marcofooterdiv 
+{
+	background: #000;	
+	height: 25px;
+	alignment-baseline:central;
+}
+
+.firmaFooter
+{
+	font-family:Verdana, Geneva, sans-serif;
+	font-size:9px;
+	font-weight:bold;
+	color:#FFF;
+	text-align:center;
+	alignment-baseline:central;
+}
