@@ -1,0 +1,429 @@
+@charset "utf-8";
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-image: url('../images/back.jpg');
+}
+
+#divHeader {
+    height: 90px;
+    background-color: #999;
+}
+
+.divHeaderTitle h3 {
+    padding-top: 12px;
+    margin-left: 12%;
+    margin-right: 12%;
+    font-family: Verdana, Geneva, sans-serif;
+    font-size: 17px;
+    font-weight: 900;
+    text-shadow: 1px 1px 3px #666;
+    color: white;
+}
+
+.divHeaderParagraph p {
+    padding-top: 8px;
+    margin-left: 12%;
+    margin-right: 12%;    
+    font-family: Verdana, Geneva, sans-serif;
+    font-size: 14px;
+    font-weight: 400;   
+    color: white;
+    text-shadow: 1px 1px 3px #666;
+}
+
+#divNav {
+    position: absolute;
+    height: 28px;
+    width: 50%;
+    margin-left: 11%;
+    background-color: #000;
+}
+
+#divNav ul {
+	list-style: none;
+	overflow: hidden;
+}
+
+#divNav ul li {
+	float: left;
+}
+
+#divNav ul li span {
+	margin-right: 10px;
+}
+
+#divNav ul li a {
+	display: block;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	padding-left: 20px;
+	padding-right: 20px;
+	color: #fff;
+	text-decoration: none;
+}
+
+#divNav ul li a:hover {
+	display: block;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	padding-left: 20px;
+	padding-right: 20px;	
+	color: #fff;
+	background: #f60;
+	text-decoration: none		
+}
+
+#divNav ul li a:active {
+	display: block;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	padding-left: 20px;
+	padding-right: 20px;	
+	color: #fff;
+	background: #f00;
+	text-decoration: none		
+}
+
+#divNav ul li a img {
+    width: 9%;
+    height: 9%;
+}
+
+#divBody {
+    height: 500px;
+    padding-top: 3%;
+    margin-left: 12%;
+    margin-right: 50%;
+}
+
+.divBodyContent h2, h3 {
+    font-family: Verdana, Geneva, sans-serif;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    text-shadow: 1px 1px 3px #666;
+    color: brown;
+}
+
+.divBodyContent h2 {
+    font-size: 18px;
+    font-weight: 600;     
+}
+
+.divBodyContent h3 {
+    font-size: 16px;
+    font-weight: 600;     
+}
+
+.divBodyContent p {
+    font-family: Verdana, Geneva, sans-serif;
+    font-size: 12px;
+    font-weight: 300;    
+    line-height: 16px;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    text-align: justify;
+    text-shadow: 1px 1px 2px #999;
+}
+
+#divLogon {
+    height: 500px;
+    padding-top: 3%;
+    margin-left: 12%;
+    margin-right: 50%;    
+}
+
+.divLogonInputs {
+    display: block;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    margin-left: 10%;
+}
+
+.divLogonInputs label {
+    padding-top: 2%;
+    padding-bottom: 2%;
+    font-family: Verdana, Geneva, sans-serif;
+    font-size: 12px;
+    font-weight: 900;
+    color: brown; 
+    text-shadow: 1px 1px 2px #888;
+}
+
+.divLogonInputs input[type="text"], input[type="password"] {
+    font-family: Verdana, Geneva, sans-serif;
+    font-size: 12px;
+    font-weight: 900;
+    color: green; 
+    background-color: azure;
+    margin-right: 50%;
+}
+
+.divLogonButtons input[type="submit"], input[type="button"] {
+    color: rgb(230, 230, 230);
+    font-size: 12px;
+    padding: 9px;
+    text-shadow: 0px -1px 0px rgba(30, 30, 30, 0.8);
+    -webkit-border-radius: 15px;
+    -moz-border-radius: 15px;
+    border-radius: 15px;
+    background: rgb(90, 90, 90);
+    background: -moz-linear-gradient(90deg, rgb(90, 90, 90) 30%, rgb(200, 200, 200) 70%);
+    background: -webkit-linear-gradient(90deg, rgb(90, 90, 90) 30%, rgb(200, 200, 200) 70%);
+    background: -o-linear-gradient(90deg, rgb(90, 90, 90) 30%, rgb(200, 200, 200) 70%);
+    background: -ms-linear-gradient(90deg, rgb(90, 90, 90) 30%, rgb(200, 200, 200) 70%);
+    background: linear-gradient(0deg, rgb(90, 90, 90) 30%, rgb(200, 200, 200) 70%);
+    -webkit-box-shadow: 0px 2px 1px rgba(50, 50, 50, 0.75);
+    -moz-box-shadow:    0px 2px 1px rgba(50, 50, 50, 0.75);
+    box-shadow:         0px 2px 1px rgba(50, 50, 50, 0.75);    
+    margin-left: 10%;
+}
+
+.divLogonButtons input[type="submit"]:hover, input[type="button"]:hover {
+    color: rgb(230, 230, 230);
+    font-size: 12px;
+    padding: 9px;
+    text-shadow: 0px -1px 0px rgba(30, 30, 30, 0.8);
+    -webkit-border-radius: 15px;
+    -moz-border-radius: 15px;
+    border-radius: 15px;
+    background: rgb(90, 90, 90);
+    background: -moz-linear-gradient(90deg, rgb(200, 200, 200), rgb(90, 90, 90) 30% 70%);
+    background: -webkit-linear-gradient(90deg, rgb(200, 200, 200), rgb(90, 90, 90) 30% 70%);
+    background: -o-linear-gradient(90deg, rgb(200, 200, 200), rgb(90, 90, 90) 30% 70%);
+    background: -ms-linear-gradient(90deg, rgb(200, 200, 200), rgb(90, 90, 90) 30% 70%);
+    background: linear-gradient(0deg, rgb(200, 200, 200), rgb(90, 90, 90) 30% 70%);
+    -webkit-box-shadow: 0px 2px 1px rgba(50, 50, 50, 0.75);
+    -moz-box-shadow:    0px 2px 1px rgba(50, 50, 50, 0.75);
+    box-shadow:         0px 2px 1px rgba(50, 50, 50, 0.75);   
+    margin-left: 10%;
+}
+
+#divRescue {
+    height: 500px;
+    padding-top: 3%;
+    margin-left: 12%;
+    margin-right: 50%;    
+}
+
+.divRescueInputs {
+    display: block;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    margin-left: 10%;
+}
+
+.divRescueInputs label {
+    padding-top: 2%;
+    padding-bottom: 2%;
+    font-family: Verdana, Geneva, sans-serif;
+    font-size: 12px;
+    font-weight: 900;
+    color: brown; 
+    text-shadow: 1px 1px 2px #888;    
+}
+
+.divRescueInputs input[type="text"] {
+    font-family: Verdana, Geneva, sans-serif;
+    font-size: 12px;
+    font-weight: 900;
+    color: green; 
+    background-color: azure;
+    margin-right: 50%;
+}
+
+.divRescueButtons input[type="submit"], input[type="button"] {
+    color: rgb(230, 230, 230);
+    font-size: 12px;
+    padding: 9px;
+    text-shadow: 0px -1px 0px rgba(30, 30, 30, 0.8);
+    -webkit-border-radius: 15px;
+    -moz-border-radius: 15px;
+    border-radius: 15px;
+    background: rgb(90, 90, 90);
+    background: -moz-linear-gradient(90deg, rgb(90, 90, 90) 30%, rgb(200, 200, 200) 70%);
+    background: -webkit-linear-gradient(90deg, rgb(90, 90, 90) 30%, rgb(200, 200, 200) 70%);
+    background: -o-linear-gradient(90deg, rgb(90, 90, 90) 30%, rgb(200, 200, 200) 70%);
+    background: -ms-linear-gradient(90deg, rgb(90, 90, 90) 30%, rgb(200, 200, 200) 70%);
+    background: linear-gradient(0deg, rgb(90, 90, 90) 30%, rgb(200, 200, 200) 70%);
+    -webkit-box-shadow: 0px 2px 1px rgba(50, 50, 50, 0.75);
+    -moz-box-shadow:    0px 2px 1px rgba(50, 50, 50, 0.75);
+    box-shadow:         0px 2px 1px rgba(50, 50, 50, 0.75);    
+    margin-left: 10%;
+}
+
+.divRescueButtons input[type="submit"]:hover, input[type="button"]:hover {
+    color: rgb(230, 230, 230);
+    font-size: 12px;
+    padding: 9px;
+    text-shadow: 0px -1px 0px rgba(30, 30, 30, 0.8);
+    -webkit-border-radius: 15px;
+    -moz-border-radius: 15px;
+    border-radius: 15px;
+    background: rgb(90, 90, 90);
+    background: -moz-linear-gradient(90deg, rgb(200, 200, 200), rgb(90, 90, 90) 30% 70%);
+    background: -webkit-linear-gradient(90deg, rgb(200, 200, 200), rgb(90, 90, 90) 30% 70%);
+    background: -o-linear-gradient(90deg, rgb(200, 200, 200), rgb(90, 90, 90) 30% 70%);
+    background: -ms-linear-gradient(90deg, rgb(200, 200, 200), rgb(90, 90, 90) 30% 70%);
+    background: linear-gradient(0deg, rgb(200, 200, 200), rgb(90, 90, 90) 30% 70%);
+    -webkit-box-shadow: 0px 2px 1px rgba(50, 50, 50, 0.75);
+    -moz-box-shadow:    0px 2px 1px rgba(50, 50, 50, 0.75);
+    box-shadow:         0px 2px 1px rgba(50, 50, 50, 0.75);   
+    margin-left: 10%;
+}
+
+#divErrorLogon {
+    height: 500px;
+    padding-top: 3%;
+    margin-left: 12%;
+    margin-right: 50%;
+}
+
+.divErrorArea h3 {
+    font-family: Verdana, Geneva, sans-serif;
+    font-size: 16px;
+    font-weight: 600; 
+    padding-top: 1%;
+    padding-bottom: 1%;
+    text-shadow: 1px 1px 3px #666;
+    color: brown;
+}
+
+.divErrorArea p {
+    font-family: Verdana, Geneva, sans-serif;
+    font-size: 12px;
+    font-weight: 350;    
+    line-height: 16px;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    text-align: justify;
+    text-shadow: 1px 1px 2px #999;
+}
+
+.divErrorArea input[type="button"] {
+    margin-top: 3%;
+    margin-left: 0.25%;
+}
+
+/* *** */
+#divRegistro {
+    height: 500px;
+    padding-top: 3%;
+    margin-left: 12%;
+    margin-right: 50%;
+}
+
+.divRegistroInputs {
+    display: block;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    margin-left: 10%;
+}
+
+.divRegistroInputs h3 {
+    font-family: Verdana, Geneva, sans-serif;
+    font-size: 16px;
+    font-weight: 600; 
+    padding-top: 1%;
+    padding-bottom: 1%;
+    text-shadow: 1px 1px 3px #666;
+    color: brown;
+}
+
+#err1, #err2 {
+    font-family: Verdana, Geneva, sans-serif;
+    font-size: 12px;
+    font-weight: 600; 
+    padding-top: 1%;
+    padding-bottom: 1%;
+    text-shadow: 1px 1px 3px #666;
+    color: red;
+}
+
+.divRegistroInputs label {
+    padding-top: 2%;
+    padding-bottom: 2%;
+    font-family: Verdana, Geneva, sans-serif;
+    font-size: 12px;
+    font-weight: 900;
+    color: brown; 
+    text-shadow: 1px 1px 2px #888;    
+}
+
+.divRegistroInputs input[type="text"], input[type="password"] {
+    font-family: Verdana, Geneva, sans-serif;
+    font-size: 12px;
+    font-weight: 900;
+    color: green; 
+    background-color: azure;
+    margin-right: 50%;
+}
+
+.divRegistroInputs input[type="button"] {
+    margin-top: 3%;
+    margin-left: 0.25%;
+}
+
+.divRegistroButtons input[type="submit"], input[type="button"] {
+    color: rgb(230, 230, 230);
+    font-size: 12px;
+    padding: 9px;
+    text-shadow: 0px -1px 0px rgba(30, 30, 30, 0.8);
+    -webkit-border-radius: 15px;
+    -moz-border-radius: 15px;
+    border-radius: 15px;
+    background: rgb(90, 90, 90);
+    background: -moz-linear-gradient(90deg, rgb(90, 90, 90) 30%, rgb(200, 200, 200) 70%);
+    background: -webkit-linear-gradient(90deg, rgb(90, 90, 90) 30%, rgb(200, 200, 200) 70%);
+    background: -o-linear-gradient(90deg, rgb(90, 90, 90) 30%, rgb(200, 200, 200) 70%);
+    background: -ms-linear-gradient(90deg, rgb(90, 90, 90) 30%, rgb(200, 200, 200) 70%);
+    background: linear-gradient(0deg, rgb(90, 90, 90) 30%, rgb(200, 200, 200) 70%);
+    -webkit-box-shadow: 0px 2px 1px rgba(50, 50, 50, 0.75);
+    -moz-box-shadow:    0px 2px 1px rgba(50, 50, 50, 0.75);
+    box-shadow:         0px 2px 1px rgba(50, 50, 50, 0.75);    
+    margin-left: 10%;
+}
+
+.divRegistroButtons input[type="submit"]:hover, input[type="button"]:hover {
+    color: rgb(230, 230, 230);
+    font-size: 12px;
+    padding: 9px;
+    text-shadow: 0px -1px 0px rgba(30, 30, 30, 0.8);
+    -webkit-border-radius: 15px;
+    -moz-border-radius: 15px;
+    border-radius: 15px;
+    background: rgb(90, 90, 90);
+    background: -moz-linear-gradient(90deg, rgb(200, 200, 200), rgb(90, 90, 90) 30% 70%);
+    background: -webkit-linear-gradient(90deg, rgb(200, 200, 200), rgb(90, 90, 90) 30% 70%);
+    background: -o-linear-gradient(90deg, rgb(200, 200, 200), rgb(90, 90, 90) 30% 70%);
+    background: -ms-linear-gradient(90deg, rgb(200, 200, 200), rgb(90, 90, 90) 30% 70%);
+    background: linear-gradient(0deg, rgb(200, 200, 200), rgb(90, 90, 90) 30% 70%);
+    -webkit-box-shadow: 0px 2px 1px rgba(50, 50, 50, 0.75);
+    -moz-box-shadow:    0px 2px 1px rgba(50, 50, 50, 0.75);
+    box-shadow:         0px 2px 1px rgba(50, 50, 50, 0.75);   
+    margin-left: 10%;
+}
+
+#divFooter {
+    background-color: #000;
+    height: 180px;
+    width: auto;
+}
+
+.divFooterParagraph {
+    margin-left: 12%;
+    margin-right: 12%;
+}
+
+.divFooterParagraph p {
+    font-family: Verdana, Geneva, sans-serif;
+    font-size: 11px;
+    font-weight: 900;
+    color: #fff;
+    text-align: center;
+    padding-top: 4px;
+}
