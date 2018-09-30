@@ -1,0 +1,452 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"font-",
+				"font-weight"
+			],
+			[
+				"va",
+				"value"
+			],
+			[
+				"lb",
+				"lbUserName"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"clas",
+				"className"
+			],
+			[
+				"a",
+				"append"
+			],
+			[
+				"box",
+				"boxGrilla"
+			],
+			[
+				"h",
+				"head	Tag"
+			],
+			[
+				"jso",
+				"json_encode"
+			],
+			[
+				"Arr",
+				"array"
+			],
+			[
+				"pre",
+				"prepare"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.php",
+			"settings":
+			{
+				"buffer_size": 9,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 104.0,
+		"last_filter": "Snippet: cons",
+		"selected_items":
+		[
+			[
+				"Snippet: cons",
+				"Snippet: function __construct"
+			],
+			[
+				"Snippet: const",
+				"Snippet: function __construct"
+			],
+			[
+				"Snippet: ajax",
+				"Snippet: $.ajax()"
+			],
+			[
+				"Snippet: aja",
+				"Snippet: $.ajax()"
+			],
+			[
+				"Snippet: cla",
+				"Snippet: Class"
+			],
+			[
+				"Snippet: c",
+				"Snippet: <?php echo … ?>"
+			],
+			[
+				"Snippet: cl",
+				"Snippet: Class Variable"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"aja",
+				"Snippet: jQuery.ajax"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: ",
+				"Snippet: $.ajax()"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"htlm",
+				"Set Syntax: HTML"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 132.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/xampp/htdocs/www/misitio1/index.php",
+		"/C/xampp/htdocs/www/libreria/datas.php",
+		"/C/xampp/htdocs/www/libreria/index.php",
+		"/C/xampp/htdocs/www/libreria/css/styles.css",
+		"/C/xampp/htdocs/www/libreria/css/stslist.css",
+		"/C/xampp/htdocs/www/libreria/listado.php",
+		"/C/xampp/htdocs/www/libreria/publisheds.php",
+		"/C/xampp/htdocs/www/luis/error.php",
+		"/C/xampp/htdocs/www/luis/finance.php",
+		"/C/xampp/htdocs/www/luis/index.php",
+		"/C/xampp/htdocs/www/luis/query.php",
+		"/C/xampp/htdocs/www/yourschool/app/bootstart.php",
+		"/C/xampp/htdocs/www/yourschool/app/ajax/admin_crud.js",
+		"/C/xampp/htdocs/www/yourschool/app/views/admin/body.ctp",
+		"/C/xampp/htdocs/www/yourschool/app/controllers/admincontroller.php",
+		"/C/xampp/htdocs/www/yourschool/app/controllers/sessioncontroller.php",
+		"/C/xampp/htdocs/www/yourschool/app/ajax/tuescuela_crud.js",
+		"/C/xampp/htdocs/www/yourschool/app/layout/launch.ctp",
+		"/C/xampp/htdocs/www/yourschool/app/views/tuescuela/body.ctp",
+		"/C/xampp/htdocs/www/yourschool/app/views/admin/logon.ctp",
+		"/C/xampp/htdocs/www/yourschool/app/controllers/tuescuelacontroller.php",
+		"/C/xampp/htdocs/www/yourschool/app/views/tuescuela/box1.ctp",
+		"/C/xampp/htdocs/www/yourschool/app/views/tuescuela/box2.ctp",
+		"/C/xampp/htdocs/www/yourschool/app/views/tuescuela/box3.ctp",
+		"/C/xampp/htdocs/www/yourschool/app/views/tuescuela/box4.ctp",
+		"/C/xampp/htdocs/www/yourschool/app/views/tuescuela/box5.ctp",
+		"/C/xampp/htdocs/www/yourschool/app/views/tuescuela/box6.ctp",
+		"/C/xampp/htdocs/www/yourschool/app/views/tuescuela/box7.ctp",
+		"/C/xampp/htdocs/www/yourschool/app/index.php",
+		"/C/xampp/htdocs/www/yourschool/app/controllers/controller.php",
+		"/C/xampp/htdocs/www/yourschool/app/configs/precfg.php",
+		"/C/xampp/htdocs/www/yourschool/app/configs/imports.libs.php",
+		"/C/xampp/htdocs/www/yourschool/app/configs/configs.php",
+		"/C/xampp/htdocs/www/yourschool/app/controllers/precfg.php",
+		"/C/xampp/htdocs/www/tutorial/tuto_functions_php_self.php",
+		"/C/xampp/htdocs/www/yourschool/app/controllers/upfile.php",
+		"/C/xampp/htdocs/www/yourschool/app/js/components/paginator.js",
+		"/C/xampp/htdocs/www/yourschool/app/views/admin/nav.ctp",
+		"/C/xampp/htdocs/www/tuescuela/admin/controllers/logon.php",
+		"/C/xampp/htdocs/www/tuescuela/admin/controllers/logoff.php",
+		"/C/xampp/htdocs/www/tuescuela/admin/controllers/upfile.php",
+		"/C/xampp/htdocs/www/tuescuela/admin/controllers/editfile.php",
+		"/C/xampp/htdocs/www/tuescuela/admin/controllers/editdropfile.php",
+		"/C/xampp/htdocs/www/tuescuela/admin/controllers/dropfile.php",
+		"/C/xampp/htdocs/www/tuescuela/admin/controllers/edit.php",
+		"/C/xampp/htdocs/www/tuescuela/admin/controllers/delete.php",
+		"/C/xampp/htdocs/www/tuescuela/admin/controllers/add.php",
+		"/C/xampp/htdocs/www/tuescuela/admin/controllers/list.php",
+		"/C/xampp/htdocs/www/tuescuela/admin/controllers/search.php",
+		"/C/xampp/htdocs/www/tuescuela/admin/controllers/precfg.php",
+		"/C/xampp/htdocs/www/ajax/tuescuelacontroller.php",
+		"/C/xampp/htdocs/www/yourschool/app/views/tuescuela/nav.ctp",
+		"/C/xampp/htdocs/www/yourschool/app/views/admin/body.txt",
+		"/C/xampp/htdocs/www/yourschool/app/css/app-css/tuescuela.css",
+		"/C/xampp/htdocs/www/yourschool/app/css/app.css",
+		"/C/xampp/htdocs/www/yourschool/app/css/app-css/app.css",
+		"/C/xampp/htdocs/www/yourschool/app/ajax/admin.js",
+		"/C/xampp/htdocs/www/yourschool/app/controllers/admincontroller",
+		"/C/xampp/htdocs/www/yourschool/app/js/components/messagebox_bootstrap.js",
+		"/C/xampp/htdocs/www/yourschool/app/controllers/tuescuela_consulta.php",
+		"/C/xampp/htdocs/www/yourschool/app/controllers/tuescuelacontroller",
+		"/C/xampp/htdocs/www/yourschool/app/js/components/messagebox.js",
+		"/C/xampp/htdocs/www/yourschool/app/js/components/messagebox_bootstrap",
+		"/C/xampp/htdocs/www/yourschool/app/layout/footer.ctp",
+		"/C/xampp/htdocs/www/yourschool/app/libs/Sessions/sessions.php",
+		"/C/xampp/htdocs/www/yourschool/.htaccess",
+		"/C/xampp/htdocs/www/yourschool/app/.htaccess",
+		"/C/xampp/htdocs/www/yourschool/app/controllers/tuescuela_filtrar.php",
+		"/C/xampp/htdocs/www/yourschool/app/core/core.php",
+		"/C/xampp/htdocs/www/yourschool/app/core/precfg.php",
+		"/C/xampp/htdocs/www/yourschool/app/css/bootstrap-theme.css",
+		"/C/xampp/htdocs/www/yourschool/app/css/bootstrap.css",
+		"/C/xampp/htdocs/www/yourschool/app/css/jquery-ui.css",
+		"/C/xampp/htdocs/www/yourschool/app/files/manual_desarrollador_COMPG_v1.pdf",
+		"/C/xampp/htdocs/www/yourschool/app/files/manual_primer_grado.pdf",
+		"/C/xampp/htdocs/www/yourschool/app/fonts/glyphicons-halflings-regular.eot",
+		"/C/xampp/htdocs/www/yourschool/app/images/imgApple.png",
+		"/C/xampp/htdocs/www/yourschool/app/js/bootstrap.js",
+		"/C/xampp/htdocs/www/yourschool/app/js/bootstrap.min.js",
+		"/C/xampp/htdocs/www/yourschool/app/js/components/msgbox/aeon-icon-pack-5.jpg",
+		"/C/xampp/htdocs/www/yourschool/app/js/components/msgbox/delfile.png",
+		"/C/xampp/htdocs/www/yourschool/app/js/jquery-latest.js",
+		"/C/xampp/htdocs/www/yourschool/app/js/jquery-ui.js",
+		"/C/xampp/htdocs/www/yourschool/app/js/jquery/1.10.1/jquery-1.10.1.js",
+		"/C/xampp/htdocs/www/yourschool/app/js/jquery/1.11.3/jquery.min.js",
+		"/C/xampp/htdocs/www/yourschool/app/js/ui/jquery-ui.js",
+		"/C/xampp/htdocs/www/yourschool/app/js/ui/jquery.dataTables.min.js",
+		"/C/xampp/htdocs/www/yourschool/app/js/ui/validForms.js",
+		"/C/xampp/htdocs/www/yourschool/app/libs/LocalZone/ILocalZone.php",
+		"/C/xampp/htdocs/www/yourschool/app/libs/LocalZone/LocalZone.php",
+		"/C/xampp/htdocs/www/yourschool_none_security_2/app/index.php",
+		"/C/xampp/htdocs/www/yourschool_none_security_2/app/bootstart.php",
+		"/C/xampp/htdocs/www/yourschool_none_security_2/.htaccess",
+		"/C/xampp/htdocs/www/galeriaguemes/app/.htaccess",
+		"/C/xampp/htdocs/www/yourschool_none_security_2/app/layout/launch.ctp",
+		"/C/xampp/htdocs/www/yourschool_none_security_2/app/ajax/tuescuela_crud.js",
+		"/C/xampp/htdocs/www/yourschool/app/webroot/index.php",
+		"/C/xampp/htdocs/www/yourschool/app/webroot/css/app.css",
+		"/C/xampp/htdocs/www/yourschool/app/layout/header.ctp",
+		"/C/xampp/htdocs/www/yourschool/app/webroot/.htaccess",
+		"/C/xampp/htdocs/www/yourschool/app/errors/error400.html",
+		"/C/xampp/htdocs/www/yourschool/app/errors/error401.html",
+		"/C/xampp/htdocs/www/yourschool/app/errors/error403.html",
+		"/C/xampp/htdocs/www/yourschool/app/errors/error404.html",
+		"/C/xampp/htdocs/www/yourschool/app/errors/error500.html",
+		"/C/xampp/htdocs/www/yourschool/app/views/layout/launch.ctp",
+		"/C/xampp/htdocs/www/yourschool/app/webroot/js/components/paginator.js",
+		"/C/xampp/htdocs/www/yourschool/app/views/tuescuela/footer.ctp",
+		"/C/xampp/htdocs/www/yourschool/app/webroot/js/tuescuela_crud.js",
+		"/C/xampp/htdocs/www/bt/js/bt.js",
+		"/C/xampp/htdocs/www/yourschool/app/webroot/controllers/tuescuela_consulta.php",
+		"/C/xampp/htdocs/www/yourschool/app/controllers/js/tuescuela_crud.js",
+		"/C/xampp/htdocs/www/bt/tuescuela_consulta.php",
+		"/C/xampp/htdocs/www/bt/index.php",
+		"/C/xampp/htdocs/www/bt/js/paginator.js",
+		"/C/xampp/htdocs/www/bs_mvc_jss_aaw/index.php",
+		"/C/xampp/htdocs/www/bs_mvc_jss_aaw/consulta",
+		"/C/xampp/htdocs/www/yourschool/app/views/tuescuela/header.ctp",
+		"/C/xampp/htdocs/www/yourschool/app/launch/index.php",
+		"/C/xampp/htdocs/www/yourschool/index.php",
+		"/C/xampp/htdocs/www/tuescuela/admin/js/crud.js",
+		"/C/xampp/htdocs/www/tuescuela/admin/views/body.ctp",
+		"/C/xampp/htdocs/www/tuescuela/admin/launch.php",
+		"/C/xampp/htdocs/www/tuescuela/admin/js/algo.js",
+		"/C/xampp/htdocs/www/tuescuela/core/core.php",
+		"/C/xampp/htdocs/www/tuescuela/admin/index.php",
+		"/C/xampp/htdocs/www/tuescuela/admin/views/logon.ctp",
+		"/C/xampp/htdocs/www/tuescuela/admin/views/boby1.ctp"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			"C:\\xampp\\htdocs\\www\\yourschool"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"error",
+			"?>",
+			"/>\n",
+			";\n",
+			"	var paginador = new Paginator(\n	    document.getElementById('boxGrilla'),\n	    document.getElementById('tablaGrilla'),\n	    3\n	);\n	paginador.show();",
+			"					var bxGrilla = document.getElementById('boxGrilla');\n					bxGrilla.innerHTML(\"No existen datos.\");\n					bxGrilla.className = 'errMsj';",
+			"pagActual",
+			"paginas",
+			"tamPagina",
+			"tabla",
+			"divPaginador",
+			"\n;"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"currentPage",
+			"pages",
+			"sizePage",
+			"divTable",
+			"divPaginator"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 9,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "inmobiliaria.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"html",
+				"html:5"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 229.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

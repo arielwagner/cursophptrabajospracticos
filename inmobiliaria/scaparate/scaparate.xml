@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<inmo>
+	<scaparates>
+		<titulo>Casa - Villa Country Palmeras del Sud</titulo>
+		<autor>Arq. José Luis Herrero</autor>
+		<valor>u$s $ 170.000</valor>
+		<imagen>house001.jpg</imagen>
+	</scaparates>
+	<scaparates>
+		<titulo>Casa - Villa Cohiüe - San Carlos de Bariloche</titulo>
+		<autor>Ar. Ana María Lázaro</autor>
+		<valor>u$s 280.000</valor>
+		<imagen>house002.jpg</imagen>
+	</scaparates>
+	<scaparates>
+		<titulo>Casa - Villa Country Palmeras del Sud</titulo>
+		<autor>Arq. José Luis Herrero</autor>
+		<valor>u$s 480.000</valor>
+		<imagen>house003.jpg</imagen>
+	</scaparates>
+	<scaparates>
+		<titulo>Casa - Cerro Otto - San Carlos de Bariloche</titulo>
+		<autor>Arq. Ariel Manuel Fazzolini</autor>
+		<valor>u$s 680.000</valor>
+		<imagen>house004.jpg</imagen>
+	</scaparates>
+	<scaparates>
+		<titulo>Casa - Villa Complejo Mayling</titulo>
+		<autor>Diseño Grupo Inmobiliario Prestigio</autor>
+		<valor>u$s 220.000</valor>
+		<imagen>house005.jpg</imagen>
+	</scaparates>
+	<scaparates>
+		<titulo>Casa - Zapato - Provincia de Córdoba</titulo>
+		<autor>Ing. Bernardo Anibal Díaz</autor>
+		<valor>u$s 430.000</valor>
+		<imagen>house006.jpg</imagen>
+	</scaparates>
+	<scaparates>
+		<titulo>Casa - Country Esterito</titulo>
+		<autor>Arq. Laura Roxana Meller</autor>
+		<valor>u$s 300.000</valor>
+		<imagen>house007.jpg</imagen>
+	</scaparates>
+	<scaparates>
+		<titulo>Casa - Del Viso - Pilar Buenos Aires</titulo>
+		<autor>Arq. Ángel Roberto Freitzhield</autor>
+		<valor>u$s 130.000</valor>
+		<imagen>house008.jpg</imagen>
+	</scaparates>
+	<scaparates>
+		<titulo>Casa - Villa Cañas - Buenos Aires</titulo>
+		<autor>Arq. Sergio Pujadas</autor>
+		<valor>u$s 120.000</valor>
+		<imagen>nohouse.jpg</imagen>
+	</scaparates>
+</inmo>
